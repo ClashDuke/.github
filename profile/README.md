@@ -2,7 +2,7 @@
 
 <img src=".github/assets/banner.svg" alt="ClashDuke" width="100%">
 
-<br>
+<br><br>
 
 <a href="https://clashduke.com/invite">
   <img src="https://img.shields.io/badge/Add%20to%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add ClashDuke to your server">
